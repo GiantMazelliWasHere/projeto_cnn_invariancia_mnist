@@ -134,16 +134,16 @@ Seis versões determinísticas do conjunto de teste foram criadas pelo script de
 
 ### 4.1 Curvas de Treinamento
 
-![Alt text](resultados/curvas_SimpleCNN_plain.png)
+![Curvas - SimpleCNN_plain](resultados/curvas_SimpleCNN_plain.png)
 **Legenda: Curvas - SimpleCNN_plain**
 
-![Alt text](resultados/curvas_SimpleCNN_augmented.png)
+![Curvas - SimpleCNN_agumented](resultados/curvas_SimpleCNN_augmented.png)
 **Legenda: Curvas - SimpleCNN_agumented**
 
-![Alt text](resultados/curvas_DeepCNN_plain.png)
+![Curvas - DeepCNN_plain](resultados/curvas_DeepCNN_plain.png)
 **Legenda: Curvas - DeepCNN_plain**
 
-![Alt text](curvas_DeepCNN_augmented.png)
+![Curvas - DeepCNN_augmented](resultados/curvas_DeepCNN_augmented.png)
 **Legenda: Curvas - DeepCNN_augmented**
 
 *Observações esperadas:*
@@ -152,7 +152,7 @@ Seis versões determinísticas do conjunto de teste foram criadas pelo script de
 
 ### 4.2 Tabela Comparativa de Acurácia
 
-![Alt text](resultados/tabela_comparativa.png)
+![Tabela Comparativa](resultados/tabela_comparativa.png)
 **Legenda: Tabela Comparativa**
 
 | Modelo | Original | Translated | Rotated | Noisy | Contrast | Combined |
@@ -166,29 +166,29 @@ Seis versões determinísticas do conjunto de teste foram criadas pelo script de
 
 ### 4.3 Exemplos Visuais de Acertos e Erros
 
-![Alt text](resultados/erros_SimpleCNN_plain_test_original.png)
+![Erros - SimpleCNN_plain_test_original](resultados/erros_SimpleCNN_plain_test_original.png)
 **Legenda: Erros - SimpleCNN_plain_test_original**
 
-![Alt text](resultados/erros_SimpleCNN_plain_test_rotated.png)
+![Erros - SimpleCNN_plain_test_rotated](resultados/erros_SimpleCNN_plain_test_rotated.png)
 **Legenda: Erros - SimpleCNN_plain_test_rotated**
 
-![Alt text](resultados/erros_SimpleCNN_plain_test_combined.png)
+![Erros - SimpleCNN_plain_test_combined](resultados/erros_SimpleCNN_plain_test_combined.png)
 **Legenda: Erros - SimpleCNN_plain_test_combined**
 
 ### 4.4 Filtros da Primeira Camada
 
-![Alt text](resultados/filtros_SimpleCNN_plain.png)
+![Filtros - SimpleCNN_plain](resultados/filtros_SimpleCNN_plain.png)
 **Legenda: Filtros - SimpleCNN_plain**
 
-![Alt text](resultados/filtros_DeepCNN_plain.png)
+![Filtros - DeepCNN_plain](resultados/filtros_DeepCNN_plain.png)
 **Legenda: Filtros - DeepCNN_plain**
 
 ### 4.5 Mapas de Ativação (Hooks PyTorch)
 
-![Alt text](resultados/ativacoes_SimpleCNN_plain.png)
+![Ativações - SimpleCNN_plain](resultados/ativacoes_SimpleCNN_plain.png)
 **Legenda: Ativações - SimpleCNN_plain**
 
-![Alt text](resultados/ativacoes_DeepCNN_plain.png)
+![Ativações - DeepCNN_plain](resultados/ativacoes_DeepCNN_plain.png)
 **Legenda: Ativações - DeepCNN_plain**
 
 *Todas as imagens da seção 4 podem ser encontradas em formato .png no diretório `/resultados`.*
