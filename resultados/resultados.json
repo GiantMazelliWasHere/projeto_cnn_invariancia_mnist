@@ -1,0 +1,34 @@
+{
+  "SimpleCNN_plain": {
+    "test_original": 0.99,
+    "test_translated": 0.1719,
+    "test_rotated": 0.9473,
+    "test_noisy": 0.9817,
+    "test_contrast": 0.9901,
+    "test_combined": 0.4067
+  },
+  "SimpleCNN_augmented": {
+    "test_original": 0.9881,
+    "test_translated": 0.9615,
+    "test_rotated": 0.9544,
+    "test_noisy": 0.9381,
+    "test_contrast": 0.9877,
+    "test_combined": 0.9652
+  },
+  "DeepCNN_plain": {
+    "test_original": 0.9952,
+    "test_translated": 0.4418,
+    "test_rotated": 0.9722,
+    "test_noisy": 0.6833,
+    "test_contrast": 0.9952,
+    "test_combined": 0.6228
+  },
+  "DeepCNN_augmented": {
+    "test_original": 0.9949,
+    "test_translated": 0.9908,
+    "test_rotated": 0.9848,
+    "test_noisy": 0.8594,
+    "test_contrast": 0.9949,
+    "test_combined": 0.9879
+  }
+}
