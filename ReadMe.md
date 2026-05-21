@@ -10,7 +10,6 @@
 | Ferramentas | Python, PyTorch, torchvision, matplotlib |
 | Tipo | Projeto prático |
 | Grupo |
-|-------|
 | - Eduardo Mazelli<br>- Joseh Gabriel Trimboli Agra<br>- Lucas Masaki Nagahama<br>- Pedro Henrique de Assumção Lima |
 ---
 
