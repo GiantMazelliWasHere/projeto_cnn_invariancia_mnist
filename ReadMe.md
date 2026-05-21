@@ -192,6 +192,7 @@ Seis versões determinísticas do conjunto de teste foram criadas pelo script de
 **Legenda: Ativações - DeepCNN_plain**
 
 *Todas as imagens da seção 4 podem ser encontradas em formato .png no diretório `/resultados`.*
+
 ---
 
 ## 5. Discussão
