@@ -9,7 +9,9 @@
 | Dataset | MNIST |
 | Ferramentas | Python, PyTorch, torchvision, matplotlib |
 | Tipo | Projeto prático |
-| Grupo | - Eduardo Mazelli, - Joseh Gabriel Trimboli Agra, - Lucas Masaki Nagahama, - Pedro Henrique de Assumção Lima |
+| Grupo |
+|-------|
+| - Eduardo Mazelli<br>- Joseh Gabriel Trimboli Agra<br>- Lucas Masaki Nagahama<br>- Pedro Henrique de Assumção Lima |
 ---
 
 ## 1. Introdução
